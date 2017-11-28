@@ -42,7 +42,7 @@
   },
   "scripts": {
     "prepublish": "nsp check",
-    "pretest": "eslint .",
+    "lint": "eslint .",
     "precommit": "lint-staged",
     "test": "jest --testPathIgnorePatterns '/generators/app/templates/__tests__'"
   },
