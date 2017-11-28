@@ -16,9 +16,12 @@ describe('generator-jscodeshift:app', () => {
       '.eslintrc.js',
       '.gitignore',
       '.travis.yml',
-      'foo-codemod.js',
       'package.json',
       'README.md',
+      'foo-codemod.js',
+      '__testfixtures__/foo/test.input.js',
+      '__testfixtures__/foo/test.output.js',
+      '__tests__/foo-codemod-test.js',
     ];
 
     assert.file(expectedFiles);

@@ -41,7 +41,6 @@ module.exports = class extends Generator {
   }
 
   writing() {
-    console.log(this.answers);
     this._templatesToCopy.forEach(src => {
       this.fs.copyTpl(
         this.templatePath(src),
