@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Steve Calvert",
+      "authorEmail": "steve.calvert@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
