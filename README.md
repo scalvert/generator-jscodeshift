@@ -16,6 +16,13 @@ npm install -g yo
 npm install -g generator-jscodeshift
 ```
 
+or [yarn](https://yarnpkg.com/)
+
+```bash
+yarn global add yo
+yarn global add generator-jscodeshift
+```
+
 Then generate your new project:
 
 ```bash
