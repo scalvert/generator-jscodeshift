@@ -26,10 +26,13 @@ yo jscodeshift
  * Yeoman can be too opinionated at times but is easily convinced not to be.
  * Feel free to [learn more about Yeoman](http://yeoman.io/).
 
+## Credits
+
+This generator was largely made possible by the excellent work of [Robert Jackson](https://github.com/rwjblue) when building [ember-qunit-codemod](https://github.com/rwjblue/ember-qunit-codemod).
+
 ## License
 
 MIT © [Steve Calvert]()
-
 
 [npm-image]: https://badge.fury.io/js/generator-jscodeshift.svg
 [npm-url]: https://npmjs.org/package/generator-jscodeshift
