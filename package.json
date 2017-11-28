@@ -2,7 +2,7 @@
   "name": "generator-jscodeshift",
   "version": "1.0.0",
   "description": "A yeoman generator for a jscodeshift codemod",
-  "homepage": "http://github.com/scalvert/generator-jscodshift",
+  "homepage": "http://github.com/scalvert/generator-jscodeshift",
   "author": {
     "name": "Steve Calvert",
     "email": "steve.calvert@gmail.com",

@@ -1,4 +1,7 @@
-# generator-jscodeshift [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-jscodeshift 
+
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
 An opinionated [yeoman](http://yeoman.io) generator for a jscodeshift codemod. This generator scaffolds out a project to get you started writing your codemod in minutes. It handily includes some nice features, such as
 1. Jest testing using input/output files
 1. Automatic tests for idempotency, to ensure your codemod will not bork your source files if run > 1 time
