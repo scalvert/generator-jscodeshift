@@ -1,5 +1,7 @@
 # generator-jscodeshift 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/scalvert/generator-jscodeshift.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 An opinionated [yeoman](http://yeoman.io) generator for a jscodeshift codemod. This generator scaffolds out a project to get you started writing your codemod in minutes. It handily includes some nice features, such as

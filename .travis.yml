@@ -13,6 +13,7 @@ branches:
     - master
     # npm version tags
     - /^v\d+\.\d+\.\d+/
+    - /^greenkeeper/.*$/
 
 before_install:
   - curl -o- -L https://yarnpkg.com/install.sh | bash
